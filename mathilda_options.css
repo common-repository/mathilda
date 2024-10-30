@@ -1,0 +1,12 @@
+/* CSS Document */
+
+.mathilda-healtycheck-warning
+{
+    background-color:yellow;
+}
+
+.mathilda-healtycheck-error
+{
+    color:white;
+    background-color:red;
+}
